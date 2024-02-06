@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URI = "https://gmail-clone-eta-olive.vercel.app";
+const API_URI = "https://gmail-clone-server.vercel.app";
 
 const API_GMAIL = async (serviceUrlObject, requestData = {}, type) => {
   const { params, urlParams, ...body } = requestData;
