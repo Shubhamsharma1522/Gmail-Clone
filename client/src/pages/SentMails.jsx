@@ -1,12 +1,5 @@
-
-
-
-
 const SendMails = () => {
-
-    return (
-        <>Div</>
-    )
-}
+  return <>Div</>;
+};
 
 export default SendMails;

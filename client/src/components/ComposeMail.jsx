@@ -96,7 +96,7 @@ const ComposeMail = ({ open, setOpenDrawer }) => {
       body: data.body,
       date: new Date(),
       image: "",
-      name: "Code with Shubham",
+      name: "Code ",
       starred: false,
       type: "sent",
     };
@@ -120,7 +120,7 @@ const ComposeMail = ({ open, setOpenDrawer }) => {
       body: data.body,
       date: new Date(),
       image: "",
-      name: "Code with Shubham",
+      name: "Code",
       starred: false,
       type: "drafts",
     };
